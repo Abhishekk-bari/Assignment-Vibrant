@@ -78,9 +78,11 @@ Usage
 Editing Cells: Click on a cell to input text. Use alignment buttons to adjust text alignment.
 Undo/Redo Actions: Use the toolbar buttons to undo or redo changes.
 Search Functionality: Use the search input to filter cells based on text content.
+![Home page](https://github.com/user-attachments/assets/d0174c89-e8c1-4679-a5bb-f354e79b64d4)
 
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
